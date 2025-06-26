@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>IoT Controller - Smart Home Dashboard</title>
-</head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; background-color: #f9f9f9;">
 
   <h1>📡 IoT Controller - Smart Home Dashboard</h1>
